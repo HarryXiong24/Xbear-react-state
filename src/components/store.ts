@@ -18,14 +18,4 @@ class Store {
 
 const store = new Store();
 
-// autorun(() => {
-//   console.log(store.value.count);
-// });
-
-// store.increment();
-// store.increment();
-// store.increment();
-
-// console.log(store);
-
 export default store;
